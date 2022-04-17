@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "625c3c0315963768bfc91f39",
+    "balance": "$500",
+    "picture": "https://weddingdaypix.com/wp-content/uploads/2020/11/Professional-Photographer-wedding.jpg",
+    "type": "Low Budget",
+    "name": "Basic",
+    "time": "8 hours coverage ",
+    "edit": "All images edited",
+    "print": "Full printing",
+    "about": "Engagement Shoot"
+  },
+  {
+    "_id": "625c3c03c05d0fc6debcf97e",
+    "balance": "$800",
+    "picture": "https://www.linandjirsa.com/wp-content/uploads/Ritz-Carlton-Laguna-Niguel-Indian-Wedding-Quality-Quality-over-Quantity-How-Do-I-Find-A-Wedding-Photographer-1000x667.jpg",
+    "type": "Most Popular",
+    "name": "Standard",
+    "time": "12 hours coverage",
+    "edit": "All images fully edited",
+    "print": "Full printing",
+    "about": "Weeding Shoot & Simple Video shoot."
+  },
+  {
+    "_id": "625c3c037fa57e934395ad3e",
+    "balance": "$1200",
+    "picture": "https://www.linandjirsa.com/wp-content/uploads/Pelican-Hill-Indian-Wedding-Photography-Style-How-Do-I-Find-A-Wedding-Photographer-Photography-Style-1000x667.jpg",
+    "type": "Best value",
+    "name": "premium",
+    "time": "16 hours coverage",
+    "edit": "All images fully edited",
+    "print": "Full Printing",
+    "about": "Weeding Shoot & Cinematography"
+  }
+]
