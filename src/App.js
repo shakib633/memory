@@ -7,6 +7,7 @@ import Header from './Pages/Shared/header/Header';
 import PackageDetail from './Pages/PackageDetail/PackageDetail'
 import NotFound from './Pages/Shared/NotFound/NotFound';
 import Login from './Pages/Login/Login/Login';
+import Register from './Pages/Login/Register/Register';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/package/:packageId" element={<PackageDetail></PackageDetail>}></Route>
         <Route path="/About" element={<About></About>}></Route>
         <Route path="/Login" element={<Login></Login>}></Route>
+        <Route path="/register" element={<Register></Register>}></Route>
         <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
