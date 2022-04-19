@@ -1,11 +1,11 @@
 import React from 'react';
 
-const packageDetail = () => {
+const Checkout = () => {
     return (
         <div>
-            
+        <h>checkout pack</h>
         </div>
     );
 };
 
-export default packageDetail;
+export default Checkout;
